@@ -1,3 +1,3 @@
-using_push(Array, String){
-  Array.push(sting)
+using_push(array, string){
+  array.push(string)
 }
